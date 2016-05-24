@@ -89,6 +89,20 @@ body {
 
 .login {
     float: right;
+
+}
+
+#loginID {
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(66, 133, 244);
+    font-weight: bold;
+    background-color: rgb(66, 133, 244);
+    text-align: center;
+    
 }
 
 .gb_left a, .gb_right a {
