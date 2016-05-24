@@ -39,7 +39,8 @@ body {
 
 #searchform {
     margin: 0 auto;
-    width: 250px;
+    padding: 0 auto;
+    width: 300px;
 }
 
 #Gpic {  
@@ -97,8 +98,10 @@ body {
 }
 
 .search {
-    margin: center;
-    width: 250px;
+    margin: 0 auto;
+    margin-left: -100px;
+    width: 500px;
+
 }
 
 .searchbuttons{
