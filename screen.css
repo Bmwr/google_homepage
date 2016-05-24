@@ -1,0 +1,120 @@
+html {
+    display: block;
+}
+
+body, html {
+    font-size: small;
+    height: 100%;
+    margin: 0;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+}
+
+body {
+    display: block;
+    background: #fff;
+    color: black;
+}
+
+body {
+    font-family: arial, sans-serif;
+}
+
+#header-menu {
+    position: absolute;
+/*    top: -296;*/
+    right: 0;
+    width: 100%;
+    font-size: 13px;
+    
+    
+}
+
+#shortcutpic {
+    width: 150%;
+    height: auto;
+}
+
+#searchform {
+    margin: 0 auto;
+    width: 100px;
+}
+
+#Gpic {  
+    position: relative;
+    padding-top: 200px;
+    padding-left: 0 auto;
+    margin: 0 auto;
+    width: 250px;
+    height: 100px
+}
+
+.google_bar {
+    float: right;
+    margin: 10px;
+    
+}
+
+.gb_left {
+    float: left;
+    display: inline-block;
+    padding: 8px;
+   
+}
+
+.gmail {
+    float: left;
+    vertical-align: middle;
+    line-height: 10px;
+}
+
+.images {
+    float: right;
+    line-height: 10px;
+}
+
+.gb_right{
+    float: right;
+    display: inline-block;
+    padding: 8px;
+}
+
+.more_icons {
+    float: left;
+    padding-right: 10px;
+}
+
+.login {
+    float: right;
+}
+
+.gb_left a, .gb_right a {
+    display: block;
+    padding: 8px;
+    
+}
+
+.search {
+    margin: center;
+    width: 250px;
+}
+
+.searchbuttons{
+    margin: center;
+/*    width: 250px;*/
+}
+
+#luckysearch {
+    float: right;
+    width: 125px;
+}
+
+#Gsearch {
+    float: left;
+    width: 125px;
+}
+
+
+
