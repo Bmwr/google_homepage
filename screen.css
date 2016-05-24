@@ -39,7 +39,7 @@ body {
 
 #searchform {
     margin: 0 auto;
-    width: 100px;
+    width: 250px;
 }
 
 #Gpic {  
@@ -114,6 +114,70 @@ body {
 #Gsearch {
     float: left;
     width: 125px;
+}
+
+.footer {
+    display: block;
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: absolute;
+    width: 100%;
+    background: #f2f2f2;
+    border-top-color: rgb(228, 228, 228);
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.ft-left {
+    display: block;
+    float: left;
+    width: 20%;
+    margin: 0;
+    padding: 10px 16px;
+}
+
+.ft-right {
+    display: block;
+    float: right;
+    width: 20%;
+    padding: 10px 16px;
+}
+
+.lt a {
+    color: #666;
+    float: left;
+    padding-left: 27px;
+
+}
+
+.rt a {
+    color: #666;
+    padding-left: 27px;
+}
+
+.adv_link {
+    float: left;
+}
+
+.bus_link {
+    float: left;
+}
+
+.abt_link {
+    float: left;
+}
+
+.priv_link {
+    float: right;
+}
+
+.terms_link {
+    float: right;
+}
+
+.stg_link {
+    float: right;
 }
 
 
